@@ -20,8 +20,7 @@ export default function Home() {
 
       <div className="flex gap-3">
         <Link
-          isExternal
-          href={siteConfig.links.docs}
+          href="/signup"
           className={buttonStyles({
             color: "primary",
             radius: "full",
