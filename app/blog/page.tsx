@@ -1,3 +1,3 @@
 export default function BlogPage() {
-  return <>ha</>;
+  return <>We are creating a product company,which will help hoarding companies like chitra and kaushik</>;
 }
